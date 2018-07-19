@@ -7,6 +7,7 @@ This repository contains several buggy python scripts. The purpose of the introd
 The requirements for this project are simple and are as follows:
 - Python3
 
-## Instruction
+## Instructions
 Do not modify the existing logic, just find the bug in the code snippets and correct it.
-The expect output when running the script is written at the end of the code.
+The expect output when running the script is displayed in `main.py`
+Do not modify the `main.py` file.

@@ -1,0 +1,94 @@
+{
+    "loans": [
+        {
+            "id": 1,
+            "amount": 5000,
+            "status": "paid",
+            "owner": "Jane"
+        },
+        {
+            "id": 2,
+            "amount": 500,
+            "status": "unpaid",
+            "owner": "John"
+        },
+        {
+            "id": 3,
+            "amount": 1000,
+            "status": "paid",
+            "owner": "Nad"
+        },
+        {
+            "id": 4,
+            "amount": 2000.50,
+            "status": "paid",
+            "owner": "Jeremy"
+        },
+        {
+            "id": 5,
+            "amount": 50.23,
+            "status": "paid",
+            "owner": "Christina"
+        },
+        {
+            "id": 6,
+            "amount": 5000,
+            "status": "unpaid",
+            "owner": "Chantal"
+        },
+        {
+            "id": 7,
+            "amount": 2340.12304,
+            "status": "paid",
+            "owner": "Ibrahim"
+        },
+        {
+            "id": 8,
+            "amount": 5000,
+            "status": "paid",
+            "owner": "Proton"
+        },
+        {
+            "id": 9,
+            "amount": 5000,
+            "status": "paid",
+            "owner": "Maslah"
+        },
+        {
+            "id": 10,
+            "amount": 1234,
+            "status": "paid",
+            "owner": "Kidoti"
+        },
+        {
+            "id": 11,
+            "amount": 1300,
+            "status": "paid",
+            "owner": "Loice"
+        },
+        {
+            "id": 12,
+            "amount": 5330,
+            "status": "paid",
+            "owner": "Kim"
+        },
+        {
+            "id": 13,
+            "amount": 5030,
+            "status": "unpaid",
+            "owner": "Nyambura"
+        },
+        {
+            "id": 14,
+            "amount": 1239,
+            "status": "paid",
+            "owner": "Percila"
+        },
+        {
+            "id": 14,
+            "amount": 532,
+            "status": "unpaid",
+            "owner": "Mohini"
+        }
+    ]
+}
